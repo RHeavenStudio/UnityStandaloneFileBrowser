@@ -1,0 +1,21 @@
+{
+  "name": "com.maellacour.sfb",
+  "version": "2.0.0",
+  "displayName": "Standalone File Browser",
+  "description": "A simple wrapper for native file dialogs on Windows/Mac/Linux.",
+  "unity": "2020.1",
+  "unityRelease": "0f1",
+  "dependencies": {},
+  "keywords": [
+    "Standalone",
+    "File",
+    "Browser"
+  ],
+  "license": "MIT",
+  "licensesUrl": "https://mit-license.org/",
+  "author": {
+    "name": "Mael Lacour",
+    "email": "public.dev@maellacour.com",
+    "url": "https://maellacour.com"
+  }
+}
