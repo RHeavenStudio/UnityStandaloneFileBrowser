@@ -90,7 +90,7 @@ namespace SFB {
             if (extensions == null) return "";
             var filterString = "";
             foreach (var filter in extensions) {
-                filterString += filter.Name + "(";
+                filterString += filter.Name + " (";
 
                 foreach (var ext in filter.Extensions) {
                     filterString += "*." + ext + ",";
